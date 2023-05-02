@@ -23,7 +23,7 @@ This project was built using HTML, CSS, and JavaScript.
 - Delete tasks
 
 ## Preview
-```link
+
 https://laythalqadhi.github.io/to-do-list/
-```
+
 ![Screenshot of the To-Do List web application](BC39FEA0-D073-4285-B5C2-825292549D2F.jpeg)
